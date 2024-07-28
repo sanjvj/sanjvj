@@ -32,7 +32,7 @@ src="https://img.shields.io/github/followers/sanjvj?logo=github&style=for-the-ba
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/sanjvj"><img src="https://github-readme-stats.vercel.app/api?username=sanjvj&show_icons=false&hide=&count_private=true&title_color=ec4899&text_color=ffffff&icon_color=14b8a6&bg_color=000000&hide_border=true&show_icons=true&border_radius=15px" alt="sanjvj's GitHub stats" /></a>
+<a href="http://www.github.com/sanjvj"><img src="https://github-readme-stats.vercel.app/api?username=sanjvj&show_icons=true&hide=&count_private=true&title_color=ec4899&text_color=ffffff&icon_color=14b8a6&bg_color=000000&hide_border=true&show_icons=true&border_radius=15px" alt="sanjvj's GitHub stats" /></a>
 
 <a href="http://www.github.com/sanjvj"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sanjvj&stroke=ffffff&background=000000&ring=ec4899&fire=ec4899&currStreakNum=ffffff&currStreakLabel=ec4899&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true&border_radius=15px" /></a>
 
