@@ -1,7 +1,7 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sanjay
+                                            Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sanjay
 ==============================================================================================================================
 
-Web Developer
+                                                                                    Web Developer
 -------------
 
 Hey there! I'm a passionate MERN stack developer with a knack for creating efficient and dynamic web applications. Always eager to learn and explore new technologies. Let's connect and collaborate on exciting projects!
