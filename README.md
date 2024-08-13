@@ -41,5 +41,5 @@ src="https://img.shields.io/github/followers/sanjvj?logo=github&style=for-the-ba
 
 
 
-
-<a href="https://github.com/sanjvj" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjvj&langs_count=10&title_color=ec4899&text_color=ffffff&icon_color=14b8a6&bg_color=000000&hide_border=true&border_radius=15px&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sanjvj&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sanjvj&theme=tokyonight)
