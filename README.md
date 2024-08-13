@@ -37,7 +37,7 @@ src="https://img.shields.io/github/followers/sanjvj?logo=github&style=for-the-ba
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sanjvj&theme=tokyonight)
 
-<a href="http://www.github.com/sanjvj"><img src="https://github-readme-stats.vercel.app/api?username=sanjvj&show_icons=true&hide=&count_private=true&title_color=ec4899&text_color=ffffff&icon_color=14b8a6&bg_color=000000&hide_border=true&show_icons=true&border_radius=15px" alt="sanjvj's GitHub stats" /></a>
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sanjvj&theme=tokyonight)
 
 
 
