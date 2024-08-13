@@ -33,7 +33,7 @@ src="https://img.shields.io/github/followers/sanjvj?logo=github&style=for-the-ba
 <b>My GitHub Stats</b>
 
 
-<a href="http://www.github.com/sanjvj"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sanjvj&stroke=ffffff&background=000000&ring=ec4899&fire=ec4899&currStreakNum=ffffff&currStreakLabel=ec4899&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true&border_radius=15px" /></a>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sanjvj&theme=tokyonight)](https://git.io/streak-stats)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sanjvj&theme=tokyonight)
 
