@@ -7,7 +7,7 @@
 Hey there! I'm a passionate MERN stack developer with a knack for creating efficient and dynamic web applications. Always eager to learn and explore new technologies. Let's connect and collaborate on exciting projects!
 
 * 🌍  I'm based in India
-* 🖥️  See my portfolio at [My Portfolio](http://sanjvj.github.io/Portfolio-website/)
+
 * ✉️  You can contact me at [sanjaysurya3010@gmail.com](mailto:sanjaysurya3010@gmail.com)
 * 🚀  I'm currently working on [Task Manager](http://https://github.com/sanjvj/Task-manager)
 * 🧠  I'm learning MERN Stack alongside NextJS, Postgres, Websockets, WebRtc and stuffs
