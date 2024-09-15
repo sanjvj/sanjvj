@@ -9,7 +9,7 @@ Hey there! I'm a passionate MERN stack developer with a knack for creating effic
 * 🌍  I'm based in India
 
 * ✉️  You can contact me at [sanjaysurya3010@gmail.com](mailto:sanjaysurya3010@gmail.com)
-* 🚀  I'm currently working on [Annapoorna mithai]((https://github.com/sanjvj/Annapoorna-mithais))
+* 🚀  I'm currently working on [Annapoorna mithai](https://github.com/sanjvj/Annapoorna-mithais)
 * 🧠  I'm learning MERN Stack alongside NextJS, Postgres, Websockets, WebRtc and stuffs
 * 🤝  I'm open to collaborating on Projects and Open Source
 
